@@ -32,7 +32,3 @@ Click the "Exit" button to close the application.
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request on GitHub.
-
-License
-This project is licensed under the MIT License.
-
